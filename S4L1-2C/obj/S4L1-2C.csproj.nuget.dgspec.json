@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj": {}
+    "C:\\Users\\CyberFicus\\source\\repos\\2 курс\\Сем №4 ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj": {
+    "C:\\Users\\CyberFicus\\source\\repos\\2 курс\\Сем №4 ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj",
+        "projectUniqueName": "C:\\Users\\CyberFicus\\source\\repos\\2 курс\\Сем №4 ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj",
         "projectName": "S4L1-2C",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\ТиМП\\S4L1-2C\\S4L1-2C\\obj\\",
+        "projectPath": "C:\\Users\\CyberFicus\\source\\repos\\2 курс\\Сем №4 ТиМП\\S4L1-2C\\S4L1-2C\\S4L1-2C.csproj",
+        "packagesPath": "C:\\Users\\CyberFicus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CyberFicus\\source\\repos\\2 курс\\Сем №4 ТиМП\\S4L1-2C\\S4L1-2C\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CyberFicus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

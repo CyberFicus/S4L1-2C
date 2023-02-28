@@ -13,3 +13,18 @@ C:\Users\Asus\source\repos\ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\refint\S4L1
 C:\Users\Asus\source\repos\ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.pdb
 C:\Users\Asus\source\repos\ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.genruntimeconfig.cache
 C:\Users\Asus\source\repos\ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\ref\S4L1-2C.dll
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\bin\Debug\net6.0\S4L1-2C.exe
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\bin\Debug\net6.0\S4L1-2C.deps.json
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\bin\Debug\net6.0\S4L1-2C.runtimeconfig.json
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\bin\Debug\net6.0\S4L1-2C.dll
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\bin\Debug\net6.0\S4L1-2C.pdb
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.csproj.AssemblyReference.cache
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.AssemblyInfoInputs.cache
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.AssemblyInfo.cs
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.csproj.CoreCompileInputs.cache
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.dll
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\refint\S4L1-2C.dll
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.pdb
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\S4L1-2C.genruntimeconfig.cache
+C:\Users\CyberFicus\source\repos\2 курс\Сем №4 ТиМП\S4L1-2C\S4L1-2C\obj\Debug\net6.0\ref\S4L1-2C.dll
